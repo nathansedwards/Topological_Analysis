@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!D:/Program Files/ParaView 5.10.0-Windows-Python3.9-msvc2017-AMD64/bin/pvpython
 
 from paraview.simple import *
 
